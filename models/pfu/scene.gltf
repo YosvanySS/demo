@@ -7,7 +7,7 @@
       "max": [
         0.0,
         -4.9720001220703125,
-        74.0250015258789
+        66.0250015258789
       ],
       "min": [
         -17.0,
@@ -47,7 +47,7 @@
       "max": [
         5.0,
         -0.0,
-        74.0
+        66.0
       ],
       "min": [
         -23.0,
@@ -88,12 +88,12 @@
       "max": [
         -1.0,
         -5.999000072479248,
-        94.0
+        77.0
       ],
       "min": [
         -16.0,
         -21.0,
-        -71.0
+        -63.0
       ],
       "type": "VEC3"
     },
@@ -126,10 +126,10 @@
     "extras": {
       "author": "yosvanyss (https://sketchfab.com/yosvanyss)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/plasma-facing-unit-8654b7c1e43e4ed39587c8a39252b84d",
-      "title": "Plasma Facing Unit"
+      "source": "https://sketchfab.com/3d-models/plasma-facing-units-in-iter-like-divertor-ea6019b2d75a4a939800816373c20217",
+      "title": "Plasma Facing Units in ITER like divertor"
     },
-    "generator": "Sketchfab-15.83.0",
+    "generator": "Sketchfab-15.86.0",
     "version": "2.0"
   },
   "bufferViews": [

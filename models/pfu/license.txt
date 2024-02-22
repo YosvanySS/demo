@@ -1,6 +1,6 @@
 Model Information:
-* title:	Plasma Facing Unit
-* source:	https://sketchfab.com/3d-models/plasma-facing-unit-8654b7c1e43e4ed39587c8a39252b84d
+* title:	Plasma Facing Units in ITER like divertor
+* source:	https://sketchfab.com/3d-models/plasma-facing-units-in-iter-like-divertor-ea6019b2d75a4a939800816373c20217
 * author:	yosvanyss (https://sketchfab.com/yosvanyss)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Plasma Facing Unit" (https://sketchfab.com/3d-models/plasma-facing-unit-8654b7c1e43e4ed39587c8a39252b84d) by yosvanyss (https://sketchfab.com/yosvanyss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Plasma Facing Units in ITER like divertor" (https://sketchfab.com/3d-models/plasma-facing-units-in-iter-like-divertor-ea6019b2d75a4a939800816373c20217) by yosvanyss (https://sketchfab.com/yosvanyss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
